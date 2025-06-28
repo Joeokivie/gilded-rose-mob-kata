@@ -21,6 +21,9 @@ Used for scheduling, backup communication, and storing shared documents
 
 Enabled structured collaboration and file sharing among our mob members
 
+
+
+
  Rationale:
 VS Code Live Share enables real-time coding collaboration without the need for screen sharing.
 
